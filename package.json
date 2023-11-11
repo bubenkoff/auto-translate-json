@@ -160,7 +160,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "auto-translate-json-library": "1.2.1",
+    "auto-translate-json-library": "1.3.6",
     "es2020": "^1.1.9"
   }
 }
